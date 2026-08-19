@@ -1,0 +1,359 @@
+{
+    "dengue": {
+        "name": "Dengue",
+        "description": "Dengue is a viral infection transmitted primarily by infected Aedes mosquitoes.",
+        "common_symptoms": [
+            "Fever",
+            "Headache",
+            "Pain behind the eyes",
+            "Muscle and joint pain",
+            "Nausea",
+            "Skin rash"
+        ],
+        "prevention": [
+            "Avoid mosquito bites",
+            "Use mosquito repellents",
+            "Wear protective clothing",
+            "Remove standing water around homes"
+        ],
+        "warning_signs": [
+            "Severe abdominal pain",
+            "Persistent vomiting",
+            "Bleeding",
+            "Extreme weakness",
+            "Difficulty breathing"
+        ],
+        "sources": [
+            "World Health Organization",
+            "Centers for Disease Control and Prevention"
+        ]
+    },
+
+    "malaria": {
+        "name": "Malaria",
+        "description": "Malaria is a mosquito-borne disease caused by parasites.",
+        "common_symptoms": [
+            "Fever",
+            "Chills",
+            "Sweating",
+            "Headache",
+            "Body aches",
+            "Fatigue"
+        ],
+        "prevention": [
+            "Avoid mosquito bites",
+            "Use mosquito nets",
+            "Use mosquito repellents",
+            "Reduce mosquito breeding areas"
+        ],
+        "warning_signs": [
+            "Confusion",
+            "Difficulty breathing",
+            "Severe weakness",
+            "Seizures",
+            "Loss of consciousness"
+        ],
+        "sources": [
+            "World Health Organization",
+            "Centers for Disease Control and Prevention"
+        ]
+    },
+
+    "influenza": {
+        "name": "Influenza",
+        "description": "Influenza is a contagious respiratory illness caused by influenza viruses.",
+        "common_symptoms": [
+            "Fever",
+            "Cough",
+            "Sore throat",
+            "Body aches",
+            "Headache",
+            "Fatigue"
+        ],
+        "prevention": [
+            "Wash hands regularly",
+            "Avoid close contact with sick people",
+            "Cover coughs and sneezes",
+            "Stay home when sick"
+        ],
+        "warning_signs": [
+            "Difficulty breathing",
+            "Chest pain",
+            "Severe weakness",
+            "Confusion",
+            "Symptoms that become severe or worsen"
+        ],
+        "sources": [
+            "World Health Organization",
+            "Centers for Disease Control and Prevention"
+        ]
+    },
+
+    "chikungunya": {
+        "name": "Chikungunya",
+        "description": "Chikungunya is a viral disease transmitted by infected Aedes mosquitoes.",
+        "common_symptoms": [
+            "Sudden fever",
+            "Severe joint pain",
+            "Muscle pain",
+            "Headache",
+            "Nausea",
+            "Skin rash"
+        ],
+        "prevention": [
+            "Avoid mosquito bites",
+            "Use mosquito repellents",
+            "Wear protective clothing",
+            "Remove standing water"
+        ],
+        "warning_signs": [
+            "Severe or persistent joint pain",
+            "Severe weakness",
+            "Difficulty breathing",
+            "Symptoms that become severe or worsen"
+        ],
+        "sources": [
+            "World Health Organization",
+            "Centers for Disease Control and Prevention"
+        ]
+    },
+
+    "covid19": {
+        "name": "COVID-19",
+        "description": "COVID-19 is an infectious disease caused by the SARS-CoV-2 virus.",
+        "common_symptoms": [
+            "Fever",
+            "Cough",
+            "Sore throat",
+            "Fatigue",
+            "Headache",
+            "Muscle aches"
+        ],
+        "prevention": [
+            "Maintain good hand hygiene",
+            "Improve ventilation in indoor spaces",
+            "Avoid close contact when feeling unwell",
+            "Follow recommended vaccination guidance"
+        ],
+        "warning_signs": [
+            "Difficulty breathing",
+            "Chest pain or pressure",
+            "Confusion",
+            "Severe weakness",
+            "Symptoms that become severe or worsen"
+        ],
+        "sources": [
+            "World Health Organization",
+            "Centers for Disease Control and Prevention"
+        ]
+    },
+
+    "typhoid": {
+        "name": "Typhoid",
+        "description": "Typhoid fever is a bacterial infection that can spread through contaminated food or water.",
+        "common_symptoms": [
+            "Fever",
+            "Headache",
+            "Fatigue",
+            "Abdominal pain",
+            "Diarrhea",
+            "Constipation"
+        ],
+        "prevention": [
+            "Drink safe water",
+            "Wash hands regularly",
+            "Eat properly prepared food",
+            "Maintain good food hygiene"
+        ],
+        "warning_signs": [
+            "Severe abdominal pain",
+            "Persistent vomiting",
+            "Confusion",
+            "Severe weakness",
+            "Symptoms that become severe or worsen"
+        ],
+        "sources": [
+            "World Health Organization",
+            "Centers for Disease Control and Prevention"
+        ]
+    },
+
+    "cholera": {
+        "name": "Cholera",
+        "description": "Cholera is an acute diarrhoeal infection that can spread through contaminated food or water.",
+        "common_symptoms": [
+            "Severe watery diarrhea",
+            "Vomiting",
+            "Thirst",
+            "Weakness",
+            "Dehydration",
+            "Muscle cramps"
+        ],
+        "prevention": [
+            "Drink safe water",
+            "Wash hands with soap",
+            "Use proper sanitation",
+            "Eat safely prepared food"
+        ],
+        "warning_signs": [
+            "Severe dehydration",
+            "Very little or no urination",
+            "Extreme weakness",
+            "Persistent vomiting",
+            "Severe watery diarrhea"
+        ],
+        "sources": [
+            "World Health Organization",
+            "Centers for Disease Control and Prevention"
+        ]
+    },
+
+    "tuberculosis": {
+        "name": "Tuberculosis",
+        "description": "Tuberculosis is an infectious disease caused by bacteria that most commonly affects the lungs.",
+        "common_symptoms": [
+            "Persistent cough",
+            "Chest pain",
+            "Fatigue",
+            "Fever",
+            "Night sweats",
+            "Loss of weight"
+        ],
+        "prevention": [
+            "Maintain good ventilation",
+            "Follow recommended vaccination guidance",
+            "Seek medical evaluation for persistent symptoms",
+            "Follow infection-control advice when appropriate"
+        ],
+        "warning_signs": [
+            "Cough lasting for a long time",
+            "Coughing up blood",
+            "Chest pain",
+            "Severe weakness",
+            "Breathing difficulty"
+        ],
+        "sources": [
+            "World Health Organization",
+            "Centers for Disease Control and Prevention"
+        ]
+    },
+
+    "hepatitis_a": {
+        "name": "Hepatitis A",
+        "description": "Hepatitis A is a viral liver infection that can spread through contaminated food or water.",
+        "common_symptoms": [
+            "Fatigue",
+            "Fever",
+            "Nausea",
+            "Abdominal discomfort",
+            "Loss of appetite",
+            "Jaundice"
+        ],
+        "prevention": [
+            "Drink safe water",
+            "Wash hands regularly",
+            "Maintain good food hygiene",
+            "Follow recommended vaccination guidance"
+        ],
+        "warning_signs": [
+            "Severe weakness",
+            "Severe abdominal pain",
+            "Persistent vomiting",
+            "Marked jaundice",
+            "Symptoms that become severe or worsen"
+        ],
+        "sources": [
+            "World Health Organization",
+            "Centers for Disease Control and Prevention"
+        ]
+    },
+
+    "measles": {
+        "name": "Measles",
+        "description": "Measles is a highly contagious viral disease that can cause fever and a widespread rash.",
+        "common_symptoms": [
+            "Fever",
+            "Cough",
+            "Runny nose",
+            "Red eyes",
+            "Skin rash",
+            "Fatigue"
+        ],
+        "prevention": [
+            "Follow recommended measles vaccination",
+            "Avoid close contact with infected people",
+            "Maintain good respiratory hygiene",
+            "Follow public-health guidance during outbreaks"
+        ],
+        "warning_signs": [
+            "Difficulty breathing",
+            "Severe dehydration",
+            "Confusion",
+            "Severe weakness",
+            "Symptoms that become severe or worsen"
+        ],
+        "sources": [
+            "World Health Organization",
+            "Centers for Disease Control and Prevention"
+        ]
+    },
+
+    "common_cold": {
+        "name": "Common Cold",
+        "description": "The common cold is a common viral infection of the upper respiratory tract.",
+        "common_symptoms": [
+            "Runny nose",
+            "Sneezing",
+            "Sore throat",
+            "Cough",
+            "Mild headache",
+            "Mild body aches"
+        ],
+        "prevention": [
+            "Wash hands regularly",
+            "Avoid touching the face with unwashed hands",
+            "Cover coughs and sneezes",
+            "Avoid close contact when unwell"
+        ],
+        "warning_signs": [
+            "Difficulty breathing",
+            "Chest pain",
+            "Severe weakness",
+            "Symptoms that become severe or worsen",
+            "Persistent high fever"
+        ],
+        "sources": [
+            "Centers for Disease Control and Prevention"
+        ]
+    },
+
+    "heat_illness": {
+        "name": "Heat-related Illness",
+        "description": "Heat-related illness can occur when the body becomes unable to cope with high temperatures.",
+        "common_symptoms": [
+            "Heavy sweating",
+            "Weakness",
+            "Dizziness",
+            "Headache",
+            "Nausea",
+            "Muscle cramps"
+        ],
+        "prevention": [
+            "Drink water regularly",
+            "Avoid prolonged exposure to extreme heat",
+            "Wear lightweight clothing",
+            "Take breaks in cool or shaded areas"
+        ],
+        "warning_signs": [
+            "Confusion",
+            "Loss of consciousness",
+            "Very high body temperature",
+            "Severe weakness",
+            "Difficulty breathing"
+        ],
+        "sources": [
+            "World Health Organization",
+            "Centers for Disease Control and Prevention"
+        ]
+    }
+}
